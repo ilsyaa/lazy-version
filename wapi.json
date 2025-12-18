@@ -1,6 +1,10 @@
 {
     "versions": [
         {
+            "version": "3.0.0",
+            "required_update": false
+        },
+        {
             "version": "2.0.1",
             "required_update": false
         },
@@ -9,5 +13,5 @@
             "required_update": false
         }
     ],
-    "latest": "2.0.1"
+    "latest": "3.0.0"
 }
