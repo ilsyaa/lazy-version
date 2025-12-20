@@ -1,0 +1,9 @@
+{
+    "versions": [
+        {
+            "version": "1.0.0",
+            "required_update": false
+        }
+    ],
+    "latest": "1.0.0"
+}
